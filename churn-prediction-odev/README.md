@@ -13,5 +13,5 @@ Veri hazırlama, veri ön işleme, öznitelik mühendisliği, model eğitimi, do
 ## 🚀 Projenin Çalıştırılması
 1. Repository'yi klonlayın:
    ```bash
-   git clone <REPO_LINKINIZ>
-   cd <REPO_KLASOR_ADI>
+   git clone https://github.com/yllwrck/churn-prediction-odev
+   cd https://github.com/yllwrck/churn-prediction-odev
