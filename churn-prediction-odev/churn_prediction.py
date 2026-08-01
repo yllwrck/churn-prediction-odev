@@ -1,7 +1,7 @@
 """
 =============================================================================
 PROJE: Müşteri Ayrılma Tahmini (Churn Prediction) - Ara Ödev
-HAZIRLAYAN: [Adınız Soyadınız]
+HAZIRLAYAN: Taha SARIKAYA
 
 AMAC:
 Bu betik, müşteri verileri üzerinden müşterilerin ayrılıp ayrılmayacağını (churn)
